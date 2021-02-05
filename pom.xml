@@ -15,12 +15,12 @@
 
     <dependencies>
         <dependency>
-            <groupId>fr.iut.s4.integ</groupId>
+            <groupId>fr.iut.s4.integ.hweber</groupId>
             <artifactId>CODESECRET</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>
-            <groupId>fr.iut.s4.integ</groupId>
+            <groupId>fr.iut.s4.integ.hweber</groupId>
             <artifactId>PURSE</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
